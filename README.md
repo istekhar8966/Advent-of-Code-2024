@@ -6,5 +6,5 @@
 
 # day complete  
 
-- [] Day 1 complete.
+- [x] Day 1 complete.
 - [] Day 2 In progress.
